@@ -1,0 +1,23 @@
+{
+  "dataset_url": "https://archive.ics.uci.edu/dataset/352/online+retail",
+  "original_download_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "license": "CC BY 4.0",
+  "source_kind": "Actual UCI source-record CSV subset",
+  "source_csv_url": "https://raw.githubusercontent.com/rkharwar-nv/dataset_analysis/main/samples/uci-online-retail-sample.csv",
+  "source_csv_sha256": "79bc64610f5a4e85e1e902285aa080b2d3d1ebafc1209072d6c68d7308ba9813",
+  "selection": "First available input CSV data rows in supplied source order. Packaged mirror contains the first 500 original UCI rows.",
+  "source_excel_row_interpretation": "Input CSV row index including header; matches original worksheet row for the documented first-500-row mirror.",
+  "max_rows": 500,
+  "rows_written": 500,
+  "sample_rows_written": 500,
+  "gbp_inr_rate": "100",
+  "exchange_rate_kind": "User-supplied illustrative constant, not historical market FX",
+  "category_mapping": "First two characters of StockCode, prefixed Stock prefix",
+  "location_mapping": "Country (sales market proxy for Store Location)",
+  "source_fields_preserved": [
+    "invoice_no",
+    "stock_code",
+    "unit_price_gbp",
+    "source_excel_row"
+  ]
+}

@@ -1,0 +1,1 @@
+"""Spark sales analytics implementation."""

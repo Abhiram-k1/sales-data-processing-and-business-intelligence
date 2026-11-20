@@ -1,0 +1,1 @@
+Place the official `Online Retail.xlsx` here for offline conversion. The acquisition script downloads it automatically if absent. The original workbook and archive are about 22.6 MB and are excluded from the project ZIP and Git. See `../README.md` for attribution, mappings, and the below-10-MB submission dataset.
