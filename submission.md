@@ -1,28 +1,28 @@
 # Assignment Submission Details
 
-Assignment 2 — Sales Data Processing and Business Intelligence Using Spark DataFrames.
+Assignment 2 — Sales Data Processing and Business Intelligence
 
 ## 1. Source Code Link (GitHub Preferred)
 
-[To be added by you]
+https://github.com/Abhiram-k1/sales-data-processing-and-business-intelligence
 
 Provide your GitHub repository URL and ensure the repository is accessible. Upload this complete independent project.
 
 ## 2. Source Code ZIP File (Google Drive Link)
 
-[To be added by you]
+[Pending actual Drive upload and verified shareable link]
 
-Upload `Assignment_2.zip` to Google Drive and paste its shareable link.
+Upload `01_Source_Code.zip` to Google Drive and paste its shareable link.
 
 ## 3. Dataset Link
 
-[To be added by you]
+https://archive.ics.uci.edu/static/public/352/online+retail.zip
 
 The original public download is https://archive.ics.uci.edu/static/public/352/online+retail.zip and the source page is https://archive.ics.uci.edu/dataset/352/online+retail. Use the original download URL in the form and describe the prepared assignment CSV as an adapted real-record subset.
 
 ## 4. Dataset Upload (Below 10 MB)
 
-[To be added by you]
+[Pending actual Drive upload and verified shareable link]
 
 Upload `data/processed/03_Dataset.csv` to Google Drive, verify it is below 10 MB, and paste the shareable link. The prepared subset is separate from the larger original workbook. If acquisition size changes, reduce `--max-rows` or use a smaller documented real subset for this field.
 
@@ -35,4 +35,18 @@ Upload `data/processed/03_Dataset.csv` to Google Drive, verify it is below 10 MB
 - [ ] RDD versus DataFrame representation/processing explanation and actual execution comparison.
 - [ ] Lazy evaluation and query optimization explanation supported by recorded plans/jobs.
 
-The screenshot's form has the four link fields above. This checklist helps assemble the stated expected deliverables and adds no invented submission link. The completed publication links are recorded in the four fields above.
+The screenshot's form has the four link fields above. This checklist helps assemble the stated expected deliverables and adds no invented submission link. Confirmed repository and original dataset links are recorded above. The source ZIP and dataset Drive links remain pending actual uploads.
+
+## Supporting Drive documents and folders
+
+Dataset information Word document
+
+[Pending actual Drive upload and verified shareable link]
+
+Main BDA Skill Assignments folder
+
+https://drive.google.com/drive/folders/1UyNxl8gIxfhsB17q8VrztOADi71DNkeU
+
+Assignment folder
+
+[Pending confirmed folder link]
